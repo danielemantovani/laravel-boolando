@@ -1,1 +1,4 @@
-@import "~bootstrap/scss/bootstrap.scss";
+@use "./partials/header" as *;
+
+@import "~bootstrap/scss/bootstrap.scss"; //Bootstrap
+
