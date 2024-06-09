@@ -4,11 +4,16 @@
         right: 0;
         background-color: white;
     }
-    .ms_heart:hover{
+    .ms_heart-fovourite{
         color: red;
     }
     .ms_badge{
         top: 450px;
         left:10px;
+    }
+    .ms_card-body{
+        p, h4{
+            margin: 0;
+        }
     }
 }
